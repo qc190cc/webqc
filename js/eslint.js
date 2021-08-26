@@ -1,7 +1,7 @@
 // 1.安装主要的eslint组件
-// 先删除nodemodules文件夹，然后命令行: npm install eslint --save-dev
+// npm install eslint --save-dev
 
-// 2.然后初始化，命令行: eslint --
+// 2.初始化: eslint --init  
 // 这里选择第三个
 // 选择第一个
 // 选第二个vue
